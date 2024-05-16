@@ -1,0 +1,5 @@
+boto3
+langchain
+langchain-community
+unstructured==0.7.12
+langchain-aws
